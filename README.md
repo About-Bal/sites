@@ -1,4 +1,3 @@
-Here's a README.md file for GitHub based on Bal Krishna Dhakal's CV:
 
 ```markdown
 # Bal Krishna Dhakal
